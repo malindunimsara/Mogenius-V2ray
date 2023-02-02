@@ -1,4 +1,4 @@
-# 𝐕2𝐑𝐀𝐘 𝐒𝐄𝐑𝐕𝐄𝐑 𝐈𝐍 𝐇𝐄𝐑𝐎𝐊𝐔🇱🇰
+# 𝐕2𝐑𝐀𝐘 𝐒𝐄𝐑𝐕𝐄𝐑 𝐈𝐍 𝐌𝐎𝐆𝐄𝐍𝐈𝐔𝐒🇱🇰
 
 🔥 ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴠ2ʀᴀʏ ꜱᴇʀᴠᴇʀ ɪɴ ʜᴇʀᴏᴋᴜ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ.
 
@@ -8,7 +8,7 @@ ___
 
 # 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄.
 
-                  🔮𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄🔮   
+                  🔮𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙼𝙾𝙶𝙴𝙽𝙸𝚄𝚂🔮   
                        👉𝙱𝚄𝚃𝚃𝙾𝙽👈
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/malindunimsara/heroku-v2ray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
